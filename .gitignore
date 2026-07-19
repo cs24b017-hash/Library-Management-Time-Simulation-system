@@ -1,0 +1,34 @@
+# ==========================================
+# C++ Compiled Executables & Object Files
+# ==========================================
+*.exe
+*.out
+*.o
+*.obj
+*.app
+library_system
+
+# ==========================================
+# Local Database & State Files
+# (We ignore these so you don't push your personal test data to GitHub)
+# ==========================================
+books.txt
+users.txt
+bank.txt
+system_clock.txt
+
+# ==========================================
+# Windows & macOS System Files
+# ==========================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# IDE & Editor Folders (Optional but recommended)
+# ==========================================
+.vscode/
+.vs/
+*.user
+*.suo
+cmake-build-*/
